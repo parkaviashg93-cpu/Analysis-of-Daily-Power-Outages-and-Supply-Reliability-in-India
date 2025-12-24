@@ -1,0 +1,2 @@
+# Analysis-of-Daily-Power-Outages-and-Supply-Reliability-in-India
+Analyzed daily power outage data using Excel and Power BI to identify capacity under outage, seasonal outage trends, region/state-wise impact, and SLA non-compliance. Built interactive dashboards with DAX measures to highlight high-risk months (Sep–Jan) and provide actionable insights for outage reduction and reliability improvement.
